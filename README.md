@@ -7,3 +7,6 @@ Welcome to my Github repository documenting my journey to write a self-compiling
 - Part 1: Introduction to Lexical Scanning
 - Part 2: Introduction to Parsing
 - Part 3: Operator Precedence
+
+
+###### There isn't a schedule or timeline for the future parts, so just keep checking back here to see if I've written any more.
