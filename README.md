@@ -1,6 +1,9 @@
-# Part 0: Introduction 
+## A Compiler Writing Journey
 
-Hello there, I hope you'll are doing fine well I finally have gained the courage to start this project (it took about 2 weeks to convince myself to even start this, I wanted to start this project after I placed a bet against my friend ;D). I've never written a compiler that can compile itself. So that's where I'm headed on this magical journey(i am listening to Harry Potter Book-3 E04).
+Welcome to my Github repository documenting my journey to write a self-compiling compiler for a subset of the C language. This project is designed to be a practical exploration of compiler construction, providing explanations and insights into each step of the process. Whether you're following along or just curious, I hope you find this journey informative and engaging.
 
-As part of the process, I'm going to write up my work so that you'll can follow along. This will also help me to clarify my thoughts and ideas. Hopefully you, and I, will find this useful!
+### Table of Contents
 
+- Part 1: Introduction to Lexical Scanning
+- Part 2: Introduction to Parsing
+- Part 3: Operator Precedence
